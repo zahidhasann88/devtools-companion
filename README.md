@@ -1,7 +1,3 @@
-Certainly! Here's a basic structure for the `README.md` file for your Node.js Express API project:
-
----
-
 # DevTools Companion API
 
 The DevTools Companion API is a Node.js Express application that provides endpoints for various developer tools, including color conversion, JSON manipulation, Markdown rendering, and more.
