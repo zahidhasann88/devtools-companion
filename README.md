@@ -13,7 +13,6 @@ The DevTools Companion API is a Node.js Express application that provides endpoi
 3. [Endpoints](#endpoints)
 4. [Error Handling](#error-handling)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Installation
 
